@@ -1,0 +1,1 @@
+This is a simple but useful desktoop cleaner sorting files based on their file extension. For example a .png file would go into the PNG folder. It creates if not already available a folder from the file extension so it doesn't make new folders for each file so no two folders with same name can exist
